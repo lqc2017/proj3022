@@ -1,0 +1,13 @@
+百度网盘：链接: https://pan.baidu.com/s/1o8npXXK 密码: 4q5k
+
+
+sqldeveloper:https://pan.baidu.com/s/1o8EuqX8
+64位oracle客户端:http://download.oracle.com/otn/nt/oracle11g/112010/win64_11gR2_client.zip
+1.检测到相同的sid,注册表没删干净
+ora-01031:之前在安装的过程中，已经重设了sys账户的密码，而sys账户是dba身份登陆的，所以登陆的格式应为sqlplus sys/重设的密码 as sysdba
+
+模板的webapp->lib下要添加jdbc驱动类
+
+spring-mvc中的web-xml文件要配置好不然无法访问静态资源
+
+服务器400报错，springmvc参数绑定有问题，主要是参数类型的大小写，类似于日期bind...
